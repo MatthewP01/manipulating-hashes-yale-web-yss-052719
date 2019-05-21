@@ -9,7 +9,7 @@ def second_challenge
   #code your solution here!
   groc = groceries.values
   grocc = groc.join(" ")
-
+  grocc.split
 
 
 end
