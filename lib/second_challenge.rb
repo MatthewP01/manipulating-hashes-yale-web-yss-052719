@@ -8,7 +8,7 @@ def second_challenge
 
   #code your solution here!
   groc = groceries.values
-  groc.split
+  grocc = groc.split
 
 
 end
